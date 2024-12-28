@@ -1,72 +1,65 @@
-# Pandas: Data Analysis and Manipulation in Python
+# Matplotlib: Visualization with Python
 
-This repository contains resources, tutorials, and practice files for learning and mastering the Pandas library in Python.
+This repository contains resources, tutorials, and practice files for learning and mastering data visualization using Matplotlib in Python.
 
-![Pandas Logo](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)
+![Matplotlib Logo](https://matplotlib.org/stable/_static/images/logo2.svg)
 
 ## Folder Structure
 
 ```
-📂 Pandas-Learning
+📂 Matplotlib-Learning
 ├── Basics
-│   ├── introduction_to_pandas.ipynb
-│   ├── series_and_dataframes.ipynb
-│   └── indexing_and_selection.ipynb
-├── DataCleaning
-│   ├── handling_missing_data.ipynb
-│   ├── data_transformation.ipynb
-│   └── data_merging_and_joining.ipynb
-├── Visualization
-│   ├── plotting_with_pandas.ipynb
-│   └── advanced_visualizations.ipynb
-├── RealWorldExamples
-│   ├── sales_analysis.ipynb
-│   ├── stock_market_data.ipynb
-│   └── covid19_data_analysis.ipynb
+│   ├── introduction_to_matplotlib.ipynb
+│   ├── line_plots.ipynb
+│   └── scatter_and_bar_charts.ipynb
+├── Customization
+│   ├── customizing_plots.ipynb
+│   ├── adding_legends_and_annotations.ipynb
+│   └── color_and_styles.ipynb
+├── Advanced
+│   ├── 3d_visualizations.ipynb
+│   ├── subplots_and_grids.ipynb
+│   └── interactive_visualizations.ipynb
 └── README.md
 ```
 
 ## Topics Covered
 
 ### **Basics**
-- Introduction to Pandas
-- Series and DataFrames
-- Indexing, slicing, and selection
+- Introduction to Matplotlib
+- Creating line plots
+- Creating scatter plots and bar charts
 
-### **Data Cleaning**
-- Handling missing data
-- Data transformations
-- Merging, joining, and concatenating data
+### **Customization**
+- Customizing plot appearance
+- Adding legends, annotations, and labels
+- Using colors and styles effectively
 
-### **Visualization**
-- Plotting with Pandas
-- Creating advanced visualizations
-
-### **Real-World Examples**
-- Analyzing sales data
-- Working with stock market datasets
-- COVID-19 data analysis
+### **Advanced**
+- Creating 3D visualizations
+- Working with subplots and grids
+- Building interactive visualizations
 
 ## Getting Started
 
 ### Prerequisites
 
-Ensure you have Python installed along with Pandas. You can install Pandas and related libraries using pip:
+Ensure you have Python installed along with Matplotlib. You can install Matplotlib using pip:
 
 ```bash
-pip install pandas matplotlib seaborn
+pip install matplotlib
 ```
 
 ### Running the Notebooks
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Pandas-Learning.git
+   git clone https://github.com/your-username/Matplotlib-Learning.git
    ```
 
 2. Navigate to the repository folder:
    ```bash
-   cd Pandas-Learning
+   cd Matplotlib-Learning
    ```
 
 3. Launch Jupyter Notebook:
@@ -88,4 +81,5 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 
 ---
 
-Happy learning and exploring with Pandas!
+Happy visualizing with Matplotlib!
+
