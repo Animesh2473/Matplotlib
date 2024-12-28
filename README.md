@@ -2,7 +2,7 @@
 
 This repository contains resources, tutorials, and practice files for learning and mastering data visualization using Matplotlib in Python.
 
-![Matplotlib Logo](https://matplotlib.org/stable/_static/images/logo2.svg)
+![Matplotlib Logo](https://matplotlib.org/_static/logo2_compressed.svg)
 
 ## Folder Structure
 
