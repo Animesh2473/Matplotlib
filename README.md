@@ -16,11 +16,6 @@ This repository contains resources, tutorials, and practice files for learning a
 │   ├── customizing_plots.ipynb
 │   ├── adding_legends_and_annotations.ipynb
 │   └── color_and_styles.ipynb
-├── Advanced
-│   ├── 3d_visualizations.ipynb
-│   ├── subplots_and_grids.ipynb
-│   └── interactive_visualizations.ipynb
-└── README.md
 ```
 
 ## Topics Covered
@@ -35,10 +30,6 @@ This repository contains resources, tutorials, and practice files for learning a
 - Adding legends, annotations, and labels
 - Using colors and styles effectively
 
-### **Advanced**
-- Creating 3D visualizations
-- Working with subplots and grids
-- Building interactive visualizations
 
 ## Getting Started
 
